@@ -4,7 +4,7 @@ I mainly develop in Java and JavaScript and try to learn new technologies now.
 
 ### Languages and Tools
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+<img height="32" width="32" color="#333333" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
 
 ### GitHub Stats
 
