@@ -1,6 +1,6 @@
 ### Hello World 👋
 My name is Giovanni and I'm a Swiss computer science student at the Swiss Federal Institude of Technologie. 
-I mainly develop in Java and JavaScript and try to learn new technologies now.
+I mainly develop in Java and make Math applied to computer science, such as algorithms, group and arithmetic theory. 
 
 ### GitHub Stats
 
