@@ -1,5 +1,5 @@
 ### Hello World 👋
-My name is Giovanni and I'm doing my master degree in Quantum Science and Engineering at the Swiss Federal Institude of Technologie.
+My name is Giovanni and I'm doing my master degree in Communication Systems with a Minor in Quantum Science and Engineering at the Swiss Federal Institude of Technologie.
 
 I'm interested in a number of engineering fields, including quantum computing, machine learning, communication theory and robotics.
 During my years, I've leaned many technologies for the web (Javascript, React), for building apps and plugins (React Native, C, Java, Python) and for managing data (Redis, RabbitMQ, MongoDB).
