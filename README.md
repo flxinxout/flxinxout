@@ -1,10 +1,8 @@
-### Hello World 👋
-My name is Giovanni and I'm doing my master degree in Communication Systems with a Minor in Quantum Science and Engineering at the Swiss Federal Institude of Technologie.
+My name is Giovanni and I'm doing my master degree in Communication Systems with a specialization in wireless technologies, at the Swiss Federal Institude of Technologie in Lausanne (EPFL).
 
-I'm interested in a number of engineering fields, including quantum computing, machine learning, communication theory and robotics.
-During my years, I've leaned many technologies for the web (Javascript, React), for building apps and plugins (React Native, C, Java, Python) and for managing data (Redis, RabbitMQ, MongoDB).
+I'm interested in a number of engineering fields, including communication theory, mobile networks and robotics.
 
-I'm very involved in my studies now, and I'm aiming to find internships or jobs in companies alongside my courses to gain professional experience and apply my knowledge.
+I'm currently doing my Master Thesis at EPFL at the Sensing and Networking Laboratory, under supervision of Professor Haitham Al Hassanieh, and doing research in open-source 5G with sensing capabilities in multi-static environements.
 
 ### GitHub Stats
 
